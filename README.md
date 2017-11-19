@@ -1,4 +1,4 @@
-## AstDAC
+### AstDAC
 
 # AstDAC é um fork do Asternic 1.5 free que se encontra sobre a licença GPL.
 
@@ -12,7 +12,7 @@ Há uma infinidade de recursos disponíveis como o Acordo de Nível de Serviço,
 
 Ele também tem um sistema de processamento e registro, Daemon , que está escrito em Perl, e requer o módulo Perl-Time-HiRes para ser instalado. O sistema Daemon deve ser executado em segundo plano em todos os momentos, e isso irá alimentar quaisquer dados escritos para os arquivos de registro do Asterisk em seu próprio banco de dados.
 
-Requisitos do Sistema:
+# Requisitos do Sistema:
 
 Servidor Apache/Nginx de 32 ou 64 bits do sistema operacional Linux;
 PHP 5.1 ou superior;
@@ -20,7 +20,7 @@ MySQL 5 ou superior;
 Navegador atual como E8 ou superior, Google Chrome, Safari ou Firefox;
 Javascript habilitado.
 
-## O Asternic PRO
+### O Asternic PRO
 
 O ASterinic PRO é licenciado como perpétuo, o que lhe permite usá-lo por quanto tempo quiser no servidor ao qual o programa foi licenciado. Suporte e atualizações estão incluídos durante um ano nesta versão.
 
