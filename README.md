@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## AstDAC
 
-You can use the [editor on GitHub](https://github.com/DooDell/AstDAC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# AstDAC é um fork do Asternic 1.5 free que se encontra sobre a licença GPL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O AstDAC permite executar relatórios sobre a rotina de um call center como quantas chamadas foram abandonadas, quantas foram respondidas e por quem, o tempo de espera, duração e distribuição de chamada por dia, semana, mês, hora, além de contar com ferramenta de pesquisa, visão em tempo real, dentre outros recursos.
 
-### Markdown
+# Descrição detalhada:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O AstDAC conta com conjunto eficiente de recursos, inclui fonte php completa e a licença permite que você possa executá-lo em até 5 servidores através de sua organização. Ele torna a rotina de chamadas monitoradas mais simples e possui um manual de instalação de fácil compreensão. É um software que possui utilização simples, recursos eficientes e fácil instalação. Os relatórios do AstDAC exibem informações precisas para as atividades do seu call center em tabelas e em gráficos informativos e lhe permite exportar os relatórios em PDF e CSV (Excel). 
 
-```markdown
-Syntax highlighted code block
+Há uma infinidade de recursos disponíveis como o Acordo de Nível de Serviço, distribuições de chamadas, agente de atividade e muito mais. O software é utilizado em pequenos call centers, geralmente até 60 PAs, bem como em empresas com receptivos para SAC. 
 
-# Header 1
-## Header 2
-### Header 3
+Ele também tem um sistema de processamento e registro, Daemon , que está escrito em Perl, e requer o módulo Perl-Time-HiRes para ser instalado. O sistema Daemon deve ser executado em segundo plano em todos os momentos, e isso irá alimentar quaisquer dados escritos para os arquivos de registro do Asterisk em seu próprio banco de dados.
 
-- Bulleted
-- List
+Requisitos do Sistema:
 
-1. Numbered
-2. List
+Servidor Apache/Nginx de 32 ou 64 bits do sistema operacional Linux;
+PHP 5.1 ou superior;
+MySQL 5 ou superior;
+Navegador atual como E8 ou superior, Google Chrome, Safari ou Firefox;
+Javascript habilitado.
 
-**Bold** and _Italic_ and `Code` text
+## O Asternic PRO
 
-[Link](url) and ![Image](src)
-```
+O ASterinic PRO é licenciado como perpétuo, o que lhe permite usá-lo por quanto tempo quiser no servidor ao qual o programa foi licenciado. Suporte e atualizações estão incluídos durante um ano nesta versão.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Voce pode adquirir a versão do Asterinic PRO na URL abaixo:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DooDell/AstDAC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.asternic.net/
